@@ -1,8 +1,43 @@
 #playButton{
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     position: absolute;
+    left: 121px;
+    top:110px;
 }
-body{
-    background-image:url('https://s-media-cache-ak0.pinimg.com/originals/98/b7/d4/98b7d4047d97c0d70c9f8eff994860b3.jpg') ;
+
+#playButton2{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 321px;
+    top:110px;
 }
+
+#playButton3{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 521px;
+    top:110px;
+}
+
+#playButton4{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 721px;
+    top:110px;
+}
+#playButton5{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 921px;
+    top:110px;
+}
+/*body{*/
+/*    background-image:url('https://s-media-cache-ak0.pinimg.com/originals/98/b7/d4/98b7d4047d97c0d70c9f8eff994860b3.jpg') ;*/
+/*}*/
+
+
