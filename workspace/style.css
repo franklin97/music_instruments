@@ -36,6 +36,15 @@
     left: 921px;
     top:110px;
 }
+
+#playButton6{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 1121px;
+    top:110px;
+}
+
 /*body{*/
 /*    background-image:url('https://s-media-cache-ak0.pinimg.com/originals/98/b7/d4/98b7d4047d97c0d70c9f8eff994860b3.jpg') ;*/
 /*}*/
